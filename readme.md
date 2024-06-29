@@ -11,7 +11,7 @@ This comprehensive study guide is designed to equip you with the knowledge and s
 
 ## Solutions Architect Domain Topics
 
-### Domain 1: Design Secure Architectures (30% of exam content)
+### [Domain 1: Design Secure Architectures (30% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain1-securearchitecture.md)
 #### 1.1 Design secure access to AWS resources
 - AWS Identity and Access Management (IAM)
 - Multi-account management and AWS Organizations
