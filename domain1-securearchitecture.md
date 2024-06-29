@@ -3,7 +3,7 @@
 #### 1.1 Design secure access to AWS resources
 - [AWS Identity and Access Management (IAM)](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
   - [IAM tutorial: Delegate access across AWS accounts using IAM roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html)
-- Multi-account management and AWS Organizations
+- [Multi-account management and AWS Organizations](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
 - AWS federated access and identity services
 - AWS global infrastructure
 
