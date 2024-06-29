@@ -30,7 +30,7 @@ This comprehensive study guide is designed to equip you with the knowledge and s
 - Data access, governance, and compliance
 - Backup and recovery strategies
 
-### Domain 2: Design Resilient Architectures (26% of exam content)
+### [Domain 2: Design Resilient Architectures (26% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain2-resilientarchitecture.md)
 #### 2.1 Design scalable and loosely coupled architectures
 - Microservices and containerization
 - Serverless architectures
@@ -43,7 +43,7 @@ This comprehensive study guide is designed to equip you with the knowledge and s
 - Failover and replication techniques
 - Distributed system design patterns
 
-### Domain 3: Design High-Performing Architectures (24% of exam content)
+### [Domain 3: Design High-Performing Architectures (24% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain3-highperfarchitecture.md)
 #### 3.1 Determine high-performing and/or scalable storage solutions
 - Storage services (S3, EFS, EBS) and their use cases
 - Storage performance optimization
@@ -68,7 +68,7 @@ This comprehensive study guide is designed to equip you with the knowledge and s
 - ETL and data processing (Glue, EMR)
 - Streaming data services (Kinesis)
 
-### Domain 4: Design Cost-Optimized Architectures (20% of exam content)
+### [Domain 4: Design Cost-Optimized Architectures (20% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain4-cost-optarchitecture.md)
 #### 4.1 Design cost-optimized storage solutions
 - S3 storage classes and lifecycle policies
 - EBS volume types and sizing
