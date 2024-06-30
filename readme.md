@@ -2,6 +2,8 @@
 
 This comprehensive study guide is designed to equip you with the knowledge and skills necessary to design, deploy, and manage scalable and secure applications on the Amazon Web Services (AWS) cloud platform. Whether you're new to AWS or an experienced cloud practitioner, this guide will help you master the core concepts and best practices essential for success as an AWS Solutions Architect.
 
+[The official AWS Solutions Architect Associate (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+
 ## Author: Emilie Dionisio
 [![Static Badge](https://img.shields.io/badge/github-000000?style=social&logo=GitHub)](https://github.com/emiliedionisio)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emiliedionisio.github.io/)
